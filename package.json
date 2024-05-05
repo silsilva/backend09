@@ -24,6 +24,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "resend": "^1.1.0",
+    "nextjs-cors": "^2.1.2",
     "yup": "^1.3.2"
   },
   "devDependencies": {
